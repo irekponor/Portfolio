@@ -19,20 +19,7 @@ const Contact = () => {
               <div className="flex flex-col py-2">
                 <label className="uppercase text-sm py-2 font-semibold">Email ID</label>
                 <input className="border-2 rounded-lg p-3 flex border-gray-500" type="email" name="email" />
-            </div>
-            <div className="flex flex-col py-2">
-                <label className="uppercase text-sm py-2 font-semibold">Subject</label>
-                <input className="border-2 rounded-lg p-3 flex border-gray-500" type="text" name="subject" />
-            </div>
-            <div className="flex flex-col py-2">
-                <label className="uppercase text-sm py-2 font-semibold">Message</label>
-                <textarea className="border-2 rounded-lg p-3 flex border-gray-500" rows='10' name="message" ></textarea>
-            </div>
-            <button className="bg-custom-color text-gray-200 mt-4 w-full p-4 rounded-xl font-semibold text-[18px]">
-                Send Message</button>
-              </div>
-      </form>
-    </div>
+     
   )
 }
 
