@@ -5,7 +5,7 @@ const Main = () => {
     <div id="main">
        <img className='h-screen w-full object-cover object-top' src="https://www.staffingfuture.co.uk/wp-content/uploads/images/ai-generated-professional-portrait-1170x686.jpeg" alt="" />
        <div className="absolute top-0 w-full left-0">
-      <div className='max-w-[550px] w-full h-full pl-14 m-auto justify-center items-center lg:items-start flex flex-col'>
+      <div className='max-w-[550px] w-full h-full pl-1 m-auto justify-center items-center lg:items-start flex flex-col'>
         <h3 className='sm:text-5xl text-4xl pt-56 font-bold text-black flex'>Hi, I'm Natasha Stark</h3>
         <h4 className='sm:text-3xl text-2xl pt-3 text-black'>I'm a 
             <TypeAnimation
