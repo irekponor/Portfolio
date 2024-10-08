@@ -5,8 +5,7 @@ import { GrProjects } from "react-icons/gr";
 const Sidenav = () => {
 
   return (
-    <div>
-     
+    <div>  
            <div className="md:block hidden fixed top-28">
         <div className="flex flex-col">
           <a href="#main" className="text-black rounded-full shadow-lg bg-gray-300 m-2 p-4 cursor-pointer 
